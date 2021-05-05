@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "461475213084",
+    "project_id": "vanumnuntiis",
+    "storage_bucket": "vanumnuntiis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461475213084:android:acb0c7e47cc72e9277d4d9",
+        "android_client_info": {
+          "package_name": "justhateulol.vanum_nuntiis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461475213084-jk19pu3qe1c2clivr63mcn7jfdrj49v0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHcKpcR1UWsJ9Xn3eI0sbgRG8EHGLNgBg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461475213084-jk19pu3qe1c2clivr63mcn7jfdrj49v0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
